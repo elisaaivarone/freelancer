@@ -1,24 +1,60 @@
-.menu {
+.nav {
     background-color: #2c3e50;
     color: #ffffff;
+    display: inline-block;
+    width: 100%; }
+
+.home {
+    color: #ffffff;
+    font-family: Lato;
+    padding-left: 180px;
+    padding-right: 500px;
+    font-size: 30px;}    
+ 
+.navbar{
+    display: inline-flex;
+    list-style: none; }
+ 
+.navbar li {
     font-family: Montserrat;
-    padding: 2%;
-    margin-bottom: 0;}
- 
- li {
-     display: inline;
-     padding: 20px;}
- 
- .container{
+    padding: 10px;}
+
+.container{
      display: block;
      background-color: #18bc9c;
      color: #ffffff;
-     font-family: Montserrat;
      text-align: center;
      padding: 8%;}
  
- h1 {
-     font-size: 40px;}
+.container h1 {
+     font-size: 60px;
+     font-family: Lato;}
  
- h2 {
-     font-size: 16px;}
+.container h2 {
+     font-size: 18px;
+     font-family: Montserrat;}
+
+.portfolio {
+    text-align: center;
+    font-family: Lato;
+    font-size: 30px;
+    padding-top: 20px;}
+    
+ .about {
+    background-color: #18bc9c;
+    color: #ffffff;
+ }   
+ .about h2 {
+     text-align: center;
+     font-family: Lato;
+     font-size: 30px;
+      }   
+
+.contact {
+    text-align: center;
+    font-family: Lato;
+    font-size: 30px;
+    padding-top: 20px;
+    
+}
+
