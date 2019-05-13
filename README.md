@@ -22,7 +22,7 @@ O desafio consiste utilizar HTML e CSS para replicar o site **Freelancer** e o r
   > Nota: o site original tem certos efeitos e funcionalidades que estão fora do alcance desse desafio. Mantendo o foco em obter um leiaute o mais próximo possível, usando o que aprendemos até agora :)
 
 
-## Concusão
+## Conclusão
 
 * Tags do HTML.
 * Utilização de flex-box e classes.
